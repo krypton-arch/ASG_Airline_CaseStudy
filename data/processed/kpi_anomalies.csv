@@ -1,0 +1,50 @@
+flight_id,airline,route,departure_time,arrival_time,duration_minutes,anomaly_type
+6F251,IndiGo,DEL - BLR,2026-04-20 22:56:41,2026-04-20 23:37:41,41,Short duration under 45 minutes
+6F099,IndiGo,MAA - DEL,2026-04-20 22:24:41,2026-04-20 22:59:41,35,Short duration under 45 minutes
+6F174,IndiGo,DEL - HYD,2026-04-20 21:36:41,2026-04-20 22:16:41,40,Short duration under 45 minutes
+SJ047,Spicejet,HYD - BOM,2026-04-20 20:44:41,2026-04-20 21:21:41,37,Short duration under 45 minutes
+6F086,IndiGo,MAA - HYD,2026-04-20 20:23:41,2026-04-20 21:00:41,37,Short duration under 45 minutes
+SJ003,Spicejet,MAA - CCU,2026-04-20 19:50:41,2026-04-20 20:32:41,42,Short duration under 45 minutes
+UK150,Vistara,DEL - CCU,2026-04-20 18:31:41,2026-04-20 19:01:41,30,Short duration under 45 minutes
+UK004,Vistara,BOM - CCU,2026-04-20 17:56:41,2026-04-20 18:30:41,34,Short duration under 45 minutes
+6F191,IndiGo,BLR - DEL,2026-04-20 14:41:41,2026-04-20 15:11:41,30,Short duration under 45 minutes
+SJ088,Spicejet,CCU - MAA,2026-04-20 13:54:41,2026-04-20 14:26:41,32,Short duration under 45 minutes
+SJ074,Spicejet,DEL - CCU,2026-04-20 11:21:41,2026-04-20 12:02:41,41,Short duration under 45 minutes
+UK193,Vistara,HYD - DEL,2026-04-20 08:39:41,2026-04-20 09:14:41,35,Short duration under 45 minutes
+6F092,IndiGo,MAA - BLR,2026-04-20 08:39:41,2026-04-20 09:15:41,36,Short duration under 45 minutes
+AI062,Air India,MAA - DEL,2026-04-20 06:49:41,2026-04-20 07:25:41,36,Short duration under 45 minutes
+6F083,IndiGo,BLR - DEL,2026-04-20 05:24:41,2026-04-20 06:03:41,39,Short duration under 45 minutes
+UK008,Vistara,CCU - BLR,2026-04-20 03:57:41,2026-04-20 04:34:41,37,Short duration under 45 minutes
+AI103,Air India,BLR - BOM,2026-04-20 03:26:41,2026-04-20 04:04:41,38,Short duration under 45 minutes
+SJ098,Spicejet,HYD - MAA,2026-04-20 03:02:41,2026-04-20 03:37:41,35,Short duration under 45 minutes
+SJ030,Spicejet,DEL - HYD,2026-04-20 02:36:41,2026-04-20 03:19:41,43,Short duration under 45 minutes
+6F250,IndiGo,CCU - BLR,2026-04-20 02:23:41,2026-04-20 02:56:41,33,Short duration under 45 minutes
+UK223,Vistara,CCU - DEL,2026-04-19 21:58:41,2026-04-19 22:30:41,32,Short duration under 45 minutes
+UK158,Vistara,BOM - MAA,2026-04-19 20:49:41,2026-04-19 21:22:41,33,Short duration under 45 minutes
+SJ192,Spicejet,HYD - BOM,2026-04-19 18:45:42,2026-04-19 23:45:42,300,Arrival date corrected for overnight flight
+6F256,IndiGo,BOM - CCU,2026-04-19 18:40:41,2026-04-19 19:13:41,33,Short duration under 45 minutes
+SJ161,Spicejet,MAA - BLR,2026-04-19 16:22:41,2026-04-19 17:04:41,42,Short duration under 45 minutes
+AI076,Air India,BLR - BOM,2026-04-19 15:37:41,2026-04-19 16:12:41,35,Short duration under 45 minutes
+AI083,Air India,DEL - BOM,2026-04-19 12:54:41,2026-04-19 13:37:41,43,Short duration under 45 minutes
+SJ050,Spicejet,HYD - CCU,2026-04-19 11:24:41,2026-04-19 12:03:41,39,Short duration under 45 minutes
+AI180,Air India,BOM - CCU,2026-04-19 10:19:41,2026-04-19 11:00:41,41,Short duration under 45 minutes
+SJ006,Spicejet,HYD - BLR,2026-04-19 08:25:41,2026-04-19 08:57:41,32,Short duration under 45 minutes
+AI028,Air India,HYD - BOM,2026-04-19 07:53:41,2026-04-19 08:35:41,42,Short duration under 45 minutes
+6F061,IndiGo,MAA - BOM,2026-04-19 07:28:41,2026-04-19 08:09:41,41,Short duration under 45 minutes
+6F104,IndiGo,CCU - BOM,2026-04-19 05:39:41,2026-04-19 06:14:41,35,Short duration under 45 minutes
+AI143,Air India,CCU - DEL,2026-04-19 03:58:41,2026-04-19 04:36:41,38,Short duration under 45 minutes
+SJ082,Spicejet,BOM - DEL,2026-04-19 01:54:41,2026-04-19 02:33:41,39,Short duration under 45 minutes
+SJ110,Spicejet,CCU - DEL,2026-04-19 01:47:41,2026-04-19 02:20:41,33,Short duration under 45 minutes
+AI251,Air India,MAA - DEL,2026-04-18 22:40:41,2026-04-18 23:24:41,44,Short duration under 45 minutes
+6F016,IndiGo,HYD - BOM,2026-04-18 22:18:41,2026-04-18 22:54:41,36,Short duration under 45 minutes
+SJ188,Spicejet,BLR - BOM,2026-04-18 22:15:41,2026-04-18 22:55:41,40,Short duration under 45 minutes
+6F136,IndiGo,CCU - DEL,2026-04-18 20:24:41,2026-04-18 21:01:41,37,Short duration under 45 minutes
+UK050,Vistara,BOM - DEL,2026-04-18 12:39:41,2026-04-18 13:18:41,39,Short duration under 45 minutes
+UK016,Vistara,DEL - CCU,2026-04-18 10:42:41,2026-04-18 11:22:41,40,Short duration under 45 minutes
+6F155,IndiGo,DEL - BLR,2026-04-18 07:47:41,2026-04-18 08:20:41,33,Short duration under 45 minutes
+SJ156,Spicejet,BOM - DEL,2026-04-18 06:59:41,2026-04-18 07:34:41,35,Short duration under 45 minutes
+AI089,Air India,CCU - BOM,2026-04-18 04:05:41,2026-04-18 04:47:41,42,Short duration under 45 minutes
+AI244,Air India,BLR - BOM,2026-04-18 02:50:41,2026-04-18 03:25:41,35,Short duration under 45 minutes
+6F159,IndiGo,CCU - BOM,2026-04-18 02:08:41,2026-04-18 02:43:41,35,Short duration under 45 minutes
+6F241,IndiGo,DEL - HYD,2026-04-17 18:27:41,2026-04-17 19:02:41,35,Short duration under 45 minutes
+6F223,IndiGo,MAA - BLR,2026-04-17 16:47:41,2026-04-17 17:21:41,34,Short duration under 45 minutes

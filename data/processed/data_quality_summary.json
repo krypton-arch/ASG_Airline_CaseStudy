@@ -1,0 +1,14 @@
+{
+  "raw_flight_rows": 1020,
+  "exact_duplicate_flights_removed": 15,
+  "rejected_flight_rows": 0,
+  "accepted_flight_rows": 1005,
+  "overnight_arrivals_corrected": 1,
+  "flight_anomalies": 49,
+  "raw_booking_rows": 1000,
+  "unmatched_bookings": 0,
+  "ambiguous_flight_id_bookings": 2,
+  "raw_payment_rows": 1000,
+  "missing_payment_amounts": 78,
+  "raw_passenger_rows": 1039
+}

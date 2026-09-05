@@ -1,0 +1,9 @@
+metric,value
+Flights,1005.0
+Average flight duration minutes,164.6
+Overnight flights,1.0
+Flight anomalies,49.0
+Bookings,1000.0
+Confirmed bookings,320.0
+Recorded payment amount,7385142.98
+Missing payment amounts,78.0

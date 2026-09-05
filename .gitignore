@@ -1,0 +1,12 @@
+data/raw/
+UseCase - Airlines.xlsx
+
+# Runtime and QA outputs
+__pycache__/
+*.pyc
+outputs/docx_qa_*/
+
+# Local secrets
+.env
+
+src/node_modules/

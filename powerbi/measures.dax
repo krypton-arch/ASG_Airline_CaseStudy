@@ -1,0 +1,36 @@
+Total Flights = COUNTROWS(dim_flight)
+
+Average Flight Duration Minutes =
+AVERAGE(dim_flight[duration_minutes])
+
+Overnight Flights =
+CALCULATE(
+    COUNTROWS(dim_flight),
+    dim_flight[overnight_adjusted] = TRUE()
+)
+
+Flight Anomalies =
+CALCULATE(
+    COUNTROWS(dim_flight),
+    dim_flight[has_anomaly] = TRUE()
+)
+
+Total Bookings = COUNTROWS(fact_booking)
+
+Confirmed Bookings =
+CALCULATE(
+    COUNTROWS(fact_booking),
+    fact_booking[status] = "CONFIRMED"
+)
+
+Recorded Payment Amount =
+CALCULATE(
+    SUM(fact_payment[amount]),
+    fact_payment[payment_status] = "Recorded"
+)
+
+Missing Payment Amounts =
+CALCULATE(
+    COUNTROWS(fact_payment),
+    fact_payment[payment_status] = "Missing amount"
+)
